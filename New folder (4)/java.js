@@ -1,1 +1,3 @@
-for(let i = -8;i<200;i++){console.log(i)}
+const List =["Saturday","sunday","monday","tuesday","wednesday","thursday","friday"]
+List.pop();
+ console.log(List);
